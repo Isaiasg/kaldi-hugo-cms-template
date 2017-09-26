@@ -1,7 +1,9 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Homepage"
-DefaultContentLanguage = "en"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+disable404 = true
 
 [Languages]
 
